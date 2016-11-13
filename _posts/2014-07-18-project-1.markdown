@@ -1,11 +1,18 @@
 ---
+title: Trace Level Determination of an Environmental Pollutant
+date: '2014-07-18 00:00:00'
 layout: default
 modal-id: 1
-date: 2014-07-18
 img: cabin.png
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Using solid phase extraction (SPE), samples of an environment pollutant in water were concentrated and transferred to a volatile solvent for a gas chromatography-mass spectrometry (GC-MS) analysis. This method was optimized and deployed to determine the trace levels of environmental pollutant in various regions with commercial activity of resource gathering. 
+client: Undergraduate Research
+description: Using solid phase extraction (SPE), samples of an environment pollutant
+  in water were concentrated and transferred to a volatile solvent for a gas chromatography-mass
+  spectrometry (GC-MS) analysis. This method was optimized and deployed to determine
+  the trace levels of environmental pollutant in various regions with commercial activity
+  of resource gathering.
+categories:
+- Environmental pollutant, GC-MS, SPE, solid phase extraction, gas chromatography-mass
+  spectrometry
 ---
